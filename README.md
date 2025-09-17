@@ -1,0 +1,1 @@
+[![Build C++](https://github.com/SuperMouse101/MyFirstExample/actions/workflows/build.yml/badge.svg)](https://github.com/SuperMouse101/MyFirstExample/actions/workflows/build.yml)
